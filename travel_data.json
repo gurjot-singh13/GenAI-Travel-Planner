@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Manali",
+    "description": "adventure snow mountains trekking skiing winter sports river rafting Solang Valley Rohtang Pass cold weather honeymoon scenic Himalayas",
+    "avg_cost": 8000,
+    "category": "adventure",
+    "best_months": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Goa",
+    "description": "beach party nightlife water sports scuba diving tropical sunset seafood relaxation Baga Calangute vibrant music",
+    "avg_cost": 7000,
+    "category": "beach",
+    "best_months": ["November", "December", "January", "February"]
+  },
+  {
+    "name": "Jaipur",
+    "description": "heritage palace fort desert culture Hawa Mahal Amber Fort royal architecture history shopping bazaar",
+    "avg_cost": 6000,
+    "category": "heritage",
+    "best_months": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Rishikesh",
+    "description": "spiritual yoga meditation Ganga river rafting adventure ashram retreat wellness nature peaceful",
+    "avg_cost": 4000,
+    "category": "spiritual",
+    "best_months": ["September", "October", "November", "February", "March", "April"]
+  },
+  {
+    "name": "Varanasi",
+    "description": "spiritual ghats Ganga Aarti temple pilgrimage ancient culture religion sacred city rituals",
+    "avg_cost": 3500,
+    "category": "spiritual",
+    "best_months": ["October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Kerala",
+    "description": "nature backwaters houseboat tea gardens Ayurveda beaches tropical greenery waterfalls peaceful romantic",
+    "avg_cost": 9000,
+    "category": "nature",
+    "best_months": ["September", "October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Ladakh",
+    "description": "adventure high altitude mountains Pangong Lake biking desert cold monastery scenic road trip",
+    "avg_cost": 12000,
+    "category": "adventure",
+    "best_months": ["May", "June", "July", "August", "September"]
+  },
+  {
+    "name": "Udaipur",
+    "description": "romantic lakes palace honeymoon luxury boat ride sunset royal Rajasthan couple trip",
+    "avg_cost": 8000,
+    "category": "romantic",
+    "best_months": ["October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Andaman Islands",
+    "description": "beach scuba diving snorkeling island tropical crystal clear water marine life honeymoon",
+    "avg_cost": 15000,
+    "category": "beach",
+    "best_months": ["November", "December", "January", "February", "March", "April"]
+  },
+  {
+    "name": "Coorg",
+    "description": "nature coffee plantation hills waterfalls greenery peaceful romantic Karnataka misty weather",
+    "avg_cost": 6000,
+    "category": "nature",
+    "best_months": ["October", "November", "December", "January", "February"]
+  },
+
+  {
+    "name": "Spiti Valley",
+    "description": "adventure cold desert mountains remote monastery stargazing rugged terrain road trip",
+    "avg_cost": 9000,
+    "category": "adventure",
+    "best_months": ["May", "June", "July", "August", "September"]
+  },
+  {
+    "name": "Pondicherry",
+    "description": "beach French architecture cafes yoga spiritual seaside calm peaceful colorful streets",
+    "avg_cost": 5500,
+    "category": "beach",
+    "best_months": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Ooty",
+    "description": "nature hills tea gardens cool weather lake scenic romantic peaceful Tamil Nadu",
+    "avg_cost": 5000,
+    "category": "nature",
+    "best_months": ["March", "April", "May", "June"]
+  },
+  {
+    "name": "Ranthambore",
+    "description": "wildlife safari tiger reserve jungle nature photography Rajasthan adventure",
+    "avg_cost": 9000,
+    "category": "nature",
+    "best_months": ["October", "November", "December", "January", "February", "March"]
+  },
+  {
+    "name": "Jodhpur",
+    "description": "heritage blue city fort desert culture royal architecture Rajasthan history",
+    "avg_cost": 5500,
+    "category": "heritage",
+    "best_months": ["October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Kasol",
+    "description": "adventure trekking mountains river camping backpacker Himachal nature hippie vibe",
+    "avg_cost": 4500,
+    "category": "adventure",
+    "best_months": ["March", "April", "May", "June", "September", "October"]
+  },
+
+  {
+    "name": "Auli",
+    "description": "adventure skiing snow mountains winter sports Uttarakhand scenic snow destination",
+    "avg_cost": 8500,
+    "category": "adventure",
+    "best_months": ["December", "January", "February"]
+  },
+  {
+    "name": "Meghalaya",
+    "description": "nature waterfalls living root bridges caves greenery rain clouds scenic northeast",
+    "avg_cost": 10000,
+    "category": "nature",
+    "best_months": ["October", "November", "December", "March", "April"]
+  },
+  {
+    "name": "Tawang",
+    "description": "adventure monastery snow mountains Arunachal Pradesh scenic spiritual cold destination",
+    "avg_cost": 12000,
+    "category": "adventure",
+    "best_months": ["March", "April", "May", "October"]
+  },
+  {
+    "name": "Kodaikanal",
+    "description": "romantic hills lake misty weather waterfalls honeymoon Tamil Nadu peaceful nature",
+    "avg_cost": 6000,
+    "category": "romantic",
+    "best_months": ["March", "April", "May", "June"]
+  },
+  {
+    "name": "Alleppey",
+    "description": "nature backwaters houseboat Kerala romantic water canals peaceful scenic village",
+    "avg_cost": 8000,
+    "category": "nature",
+    "best_months": ["September", "October", "November", "December", "January", "February"]
+  },
+  {
+    "name": "Mount Abu",
+    "description": "romantic hill station Rajasthan lake Nakki Lake sunset honeymoon cool climate",
+    "avg_cost": 5000,
+    "category": "romantic",
+    "best_months": ["October", "November", "December", "January", "February", "March"]
+  }
+]
